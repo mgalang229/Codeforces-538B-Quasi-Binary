@@ -84,6 +84,25 @@ should be: 110 10 10 10 10 10 10 10 10
 
 goal -> minimum value of k (size of sequence)
 
+
+life-changing realization:
+
+n = 32 (value of n)
+11
+11
+10
+
+791 (value of n)
+111
+110
+110
+110
+110
+110
+110
+010
+010
+
  */
 
 public class AuthorSol {
